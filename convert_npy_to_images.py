@@ -32,5 +32,5 @@ for category in CATEGORIES:
 
     print(f"Saved {len(images)} images for {category}!")
 
-print("✅ Conversion complete!")
+print("Conversion complete!")
 
