@@ -24,7 +24,7 @@ You can draw a doodle inside a canvas window, and the model will predict what yo
 
 The dataset is not included directly in this repo (because of size limits).
 
-🔗 **Download Dataset Here**: [Google Drive Link](YOUR_GOOGLE_DRIVE_LINK_HERE)
+🔗 **Download Dataset Here**: https://drive.google.com/drive/folders/1_Qm6LcYAaW_caYeQhXgxIHfAoAmM4Y95
 
 > After downloading, place the `.npy` files inside a folder called `data/` at the root of this project.
 
