@@ -28,4 +28,4 @@ The dataset is not included directly in this repo (because of size limits).
 
 > After downloading, place the `.npy` files inside a folder called `data/` at the root of this project.
 
-Expected structure:
+
